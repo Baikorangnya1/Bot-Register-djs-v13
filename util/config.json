@@ -1,10 +1,10 @@
 {
-  "PREFIX": "",
-  "TOKEN": "",
-  "ID_CHANNEL": "",
-  "TAG": "",
-  "ID_ROLE": "",
-  "ID_ROLE_REMOVE": "",
-  "STATUS": "",
+  "PREFIX": "!ucp",
+  "TOKEN": "MTA3NjM4NzEwODYzMTEwMTU1Mg.GpECLO.sEVIYfOW7XDrCvCP9otjW6IJaidEoKY_TK55lQ",
+  "ID_CHANNEL": "1076347303360741426",
+  "TAG": "[Citizen]",
+  "ID_ROLE": "1076370325144608798",
+  "ID_ROLE_REMOVE": "1076310535567577119",
+  "STATUS": "Heppy Roleplay in Nagius Roleplay",
   "TYPE_STATUS": "PLAYING"
 }
